@@ -1,0 +1,97 @@
+aid: latent-labs
+name: Latent Labs
+description: >-
+  Latent Labs is a London- and San Francisco-based frontier AI lab founded in
+  2023 by Dr. Simon Kohl, a former senior research scientist on DeepMind's
+  Nobel Prize-winning AlphaFold 2 and co-lead of DeepMind's protein design
+  team. The company builds generative AI foundation models to make biology
+  programmable, with the goal of enabling biotech and pharmaceutical partners
+  to computationally generate and optimize therapeutic molecules. Latent Labs
+  emerged from stealth in February 2025 with $50M in total funding ($40M
+  Series A co-led by Radical Ventures and Sofinnova Partners, plus 8VC,
+  Kindred Capital, Pillar VC, Flying Fish, Isomer, and angel investors
+  including Jeff Dean, Aidan Gomez, and Mati Staniszewski). The company's
+  proprietary model family includes Latent-X (atom-level de novo protein
+  binder design for macrocycles and mini-binders), Latent-X2 (drug-like
+  antibodies with low ex vivo immunogenicity), and Latent-Y (described as
+  the first lab-validated agent for drug design). Models are accessed
+  through the Latent Labs Platform (platform.latentlabs.com) — a no-code
+  web application with a free tier and daily credits — and, for Latent-X2,
+  via API for commercial partners. There is no public OpenAPI spec, SDK,
+  or open-source release at this time; programmatic access is gated through
+  partnerships@latentlabs.com and wet-lab validation is performed in-house
+  at the company's San Francisco facility.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Artificial Intelligence
+  - Generative AI
+  - Foundation Models
+  - Biology
+  - Programmable Biology
+  - Protein Design
+  - Drug Discovery
+  - Drug Design
+  - Antibodies
+  - Macrocycles
+  - Protein Binders
+  - Biotech
+  - Pharmaceutical
+  - Life Sciences
+  - AlphaFold
+  - Computational Biology
+url: https://raw.githubusercontent.com/api-evangelist/latent-labs/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.latentlabs.com
+  - type: Platform
+    url: https://platform.latentlabs.com
+  - type: Documentation
+    url: https://docs.latentlabs.com
+  - type: GettingStarted
+    url: https://docs.latentlabs.com/docs/getting-started
+  - type: Tutorials
+    url: https://docs.latentlabs.com/docs/tutorials
+  - type: Troubleshooting
+    url: https://docs.latentlabs.com/docs/troubleshooting
+  - type: Changelog
+    url: https://docs.latentlabs.com/changelog/friday-1-august-2025
+  - type: LatentY
+    url: https://www.latentlabs.com/latent-y/
+  - type: LatentX2
+    url: https://www.latentlabs.com/latent-x2/
+  - type: LatentX
+    url: https://www.latentlabs.com/latent-x/
+  - type: Team
+    url: https://www.latentlabs.com/team/
+  - type: Press
+    url: https://www.latentlabs.com/press-category/latent-labs/
+  - type: TermsOfService
+    url: https://docs.latentlabs.com/docs/terms-data-security-privacy
+  - type: PrivacyPolicy
+    url: https://docs.latentlabs.com/docs/privacy-policy
+  - type: License
+    url: https://docs.latentlabs.com/docs/user-license-agreement-1
+  - type: AcceptableUse
+    url: https://docs.latentlabs.com/docs/prohibited-use-policy
+  - type: CookiePolicy
+    url: https://docs.latentlabs.com/docs/cookie-policy
+  - type: Contact
+    url: mailto:contact@latentlabs.com
+  - type: Partnerships
+    url: mailto:partnerships@latentlabs.com
+  - type: Twitter
+    url: https://x.com/latent_labs
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/latent-labs
+  - type: Bluesky
+    url: https://bsky.app/profile/latentlabs.bsky.social
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
