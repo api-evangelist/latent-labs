@@ -60,7 +60,7 @@ common:
     url: https://docs.latentlabs.com/docs/tutorials
   - type: Troubleshooting
     url: https://docs.latentlabs.com/docs/troubleshooting
-  - type: Changelog
+  - type: ChangeLog
     url: https://docs.latentlabs.com/changelog/friday-1-august-2025
   - type: LatentY
     url: https://www.latentlabs.com/latent-y/
