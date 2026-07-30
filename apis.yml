@@ -22,9 +22,20 @@ description: >-
   partnerships@latentlabs.com and wet-lab validation is performed in-house
   at the company's San Francisco facility.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Provider
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/latent-labs.png
 tags:
   - Artificial Intelligence
   - Generative AI
