@@ -22,6 +22,17 @@ description: >-
   partnerships@latentlabs.com and wet-lab validation is performed in-house
   at the company's San Francisco facility.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
